@@ -1,0 +1,4 @@
+c:\users\christianosx\documents\visual studio 2010\Projects\TESSTTTULTIMO\TESSTTTULTIMO\bin\Debug\TESSTTTULTIMO.exe
+c:\users\christianosx\documents\visual studio 2010\Projects\TESSTTTULTIMO\TESSTTTULTIMO\bin\Debug\TESSTTTULTIMO.pdb
+c:\users\christianosx\documents\visual studio 2010\Projects\TESSTTTULTIMO\TESSTTTULTIMO\obj\x86\Debug\TESSTTTULTIMO.exe
+c:\users\christianosx\documents\visual studio 2010\Projects\TESSTTTULTIMO\TESSTTTULTIMO\obj\x86\Debug\TESSTTTULTIMO.pdb
